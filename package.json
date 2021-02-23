@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,7 +34,6 @@
   },
   "description": "(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC",
   "keywords": []
